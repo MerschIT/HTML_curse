@@ -6,3 +6,5 @@ TEST 2
 Test 3
 
 Other test
+
+Test 4
