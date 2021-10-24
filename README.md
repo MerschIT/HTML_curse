@@ -1,4 +1,5 @@
 # HTML_curse
+<html>
 <style>
   body {
     min-height: 150vh;
@@ -36,3 +37,4 @@
   </header>
   <p>I shift up when the #navbar is fixed to the browser window.</p>
 </body>
+</html>
