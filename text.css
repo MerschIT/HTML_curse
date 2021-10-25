@@ -1,12 +1,19 @@
 <style>
-  h2 {
-position: relative;
-  top: 15px;
 
+  div{
+    border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    margin:  50 auto;
+    background: repeating-linear-gradient(
+      45deg,
+      yellow 0px,
+      yellow 40px,
+      black 40px,
+      black 80px
+    );
   }
+
 </style>
-<body>
-  <h1>On Being Well-Positioned</h1>
-  <h2>Move me!</h2>
-  <p>I still think the h2 is where it normally sits.</p>
-</body>
+
+<div></div>
